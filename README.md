@@ -7,7 +7,9 @@ a fast paced first person multiplayer shooter, designed to make you and your fri
 ## gifs are the screenshots of game development
 template FPS
 
-![App Screenshot](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Rtc3gzaThqcGIwNWJyajlsZW1qa3Q0eHAzZTg5a2dxY3lwNXFkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/am3bisYfpBvH0pPJTZ/giphy.gif)
+![app Screenshots](https://imgtr.ee/images/2023/08/14/fe2f667173db6f9b001997d687ecd385.png)
+![](https://imgtr.ee/images/2023/08/14/dd591606bbd62de467789fb384ec4fed.png)
+![](https://imgtr.ee/images/2023/08/14/c85460d211510dfade3aa82f1bb61110.gif)
 
 
 ## Roadmap
