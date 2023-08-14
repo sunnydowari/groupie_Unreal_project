@@ -8,8 +8,8 @@ a fast paced first person multiplayer shooter, designed to make you and your fri
 template FPS
 
 ![app gif](https://imgtr.ee/images/2023/08/14/c85460d211510dfade3aa82f1bb61110.gif)
-![app Screenshot](https://imgtr.ee/images/2023/08/14/fe2f667173db6f9b001997d687ecd385.png)
-![](https://imgtr.ee/images/2023/08/14/dd591606bbd62de467789fb384ec4fed.png)
+![app Screenshot](https://imgtr.ee/images/2023/08/14/e2cddbd20f0b3b4843d390d9e563ec7c.png)
+![](https://imgtr.ee/images/2023/08/14/43e8b0332cdac88e763aaeb26ef994d2.png)
 
 
 ## Roadmap
