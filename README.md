@@ -7,7 +7,7 @@ a fast paced first person multiplayer shooter, designed to make you and your fri
 ## gifs are the screenshots of game development
 template FPS
 
-![App Screenshot](https://s11.gifyu.com/images/ScO8D.gif)
+![App Screenshot]([https://s11.gifyu.com/images/ScO8D.gif](https://drive.google.com/file/d/1GunVkP8pqBTeEnyVAYfO5yXSY96yZKkH/view?usp=sharing))
 
 
 ## Roadmap
