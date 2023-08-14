@@ -4,12 +4,12 @@ a fast paced first person multiplayer shooter, designed to make you and your fri
 
 
 
-## gifs are the screenshots of game development
+## screenshots of game development
 template FPS
 
-![app Screenshots](https://imgtr.ee/images/2023/08/14/fe2f667173db6f9b001997d687ecd385.png)
+![app gif](https://imgtr.ee/images/2023/08/14/c85460d211510dfade3aa82f1bb61110.gif)
+![app Screenshot](https://imgtr.ee/images/2023/08/14/fe2f667173db6f9b001997d687ecd385.png)
 ![](https://imgtr.ee/images/2023/08/14/dd591606bbd62de467789fb384ec4fed.png)
-![](https://imgtr.ee/images/2023/08/14/c85460d211510dfade3aa82f1bb61110.gif)
 
 
 ## Roadmap
